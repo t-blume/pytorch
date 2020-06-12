@@ -1,0 +1,5 @@
+ghostscript
+tesseract-ocr
+tesseract-ocr-deu
+libtesseract-dev
+openssl
